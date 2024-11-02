@@ -1,0 +1,11 @@
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/bin/Debug/net8.0/CreditCalculator.After.deps.json
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/bin/Debug/net8.0/CreditCalculator.After.dll
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/bin/Debug/net8.0/CreditCalculator.After.pdb
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/CreditCalculator.After.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/CreditCalculator.After.AssemblyInfoInputs.cache
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/CreditCalculator.After.AssemblyInfo.cs
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/CreditCalculator.After.csproj.CoreCompileInputs.cache
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/CreditCalculator.After.dll
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/refint/CreditCalculator.After.dll
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/CreditCalculator.After.pdb
+/Users/joseagonzalez/Desktop/source-code/after/CreditCalculator/CreditCalculator.After/obj/Debug/net8.0/ref/CreditCalculator.After.dll
